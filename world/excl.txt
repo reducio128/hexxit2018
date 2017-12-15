@@ -1,0 +1,1 @@
+excl=0;C:\Users\User\Google Drive\mcservers\hexxit2018\mods\resources\ruins\ocean\SkyCastle.tml
