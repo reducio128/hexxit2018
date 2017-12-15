@@ -11,7 +11,7 @@ After making a github account make sure that you:
   5) Go to your github profile and find the thingy you just forked
   6) Into git bash, type **git remote add hexxit2018 https://github.com/afarrukh125/hexxit2018**
   7) Now type **git add .**
-  8) Then type **git commit -m"<Enter your message here describing whats been done by anyone on the server>"**
+  8) Then type **git commit -m"--Enter your message here describing whats been done by anyone on the server--"**
   9) Now type **git push**
   10) Now on the github site, go to your version of the hexxit2018 thingy on YOUR profile
   11) Click Pull Request and pick which ones you want to merge into the original files
